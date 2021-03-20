@@ -1,0 +1,4 @@
+include ':screenrecord'
+include ':ffmpeg4android_lib'
+include ':app'
+rootProject.name = "QAScreenCap"

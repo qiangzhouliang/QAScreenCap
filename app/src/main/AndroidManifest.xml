@@ -29,7 +29,6 @@
         </activity>
         <service android:name="com.nanchen.screenrecordhelper.ScreenRecordService"
             android:enabled="true"
-            android:exported="true"
             android:foregroundServiceType="mediaProjection"/>
     </application>
 

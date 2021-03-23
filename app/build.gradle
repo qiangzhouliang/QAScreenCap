@@ -4,13 +4,12 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.1"
+    compileSdkVersion 29
 
     defaultConfig {
         applicationId "com.qzl.qascreencap"
         minSdkVersion 19
-        targetSdkVersion 30
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
         ndk {
